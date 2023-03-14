@@ -51,7 +51,7 @@ while isRunning:
         print(f"Player score is: {playerScore}")
         print(f"Computer score is: {computerScore}")
         print("-----------------------------------")
-        print(f"{Fore.YELLOW}GitHub: https://github.com/modanger1{Fore.RESET}")
+        print(f"{Fore.YELLOW}GitHub: https://github.com/toghr0l{Fore.RESET}")
         isRunning = False
     else:
         print("Invalid operation!")
